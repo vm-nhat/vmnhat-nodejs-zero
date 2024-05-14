@@ -1,0 +1,20 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "vm_nhat hoc nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "vm_nhat",
+  "license": "ISC",
+  "dependencies": {
+    "exact": "^0.8.0",
+    "express": "^4.18.2"
+  }
+}
